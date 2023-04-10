@@ -1,0 +1,34 @@
+a {
+    color: #20b323; 
+    text-decoration: none; 
+}
+
+
+a:visited {
+    color: #e2bb21;
+}
+
+a:hover {
+    color: #1027b9; 
+    text-decoration: underline; 
+}
+
+
+a:focus {
+    outline: 2px solid #d917d9; 
+    outline-offset: 2px; 
+}
+body {
+    font-family: 'Open Sans', 'Roboto', 'Vesper Libre', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Open Sans', 'Roboto', 'Vesper Libre', sans-serif;
+}
+
+p {
+    font-family: 'Open Sans', 'Roboto', 'Vesper Libre', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
